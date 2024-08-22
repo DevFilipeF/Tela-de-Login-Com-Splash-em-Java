@@ -1,0 +1,10 @@
+#  TELA DE LOGIN COM SPLASH
+Este repositório contém um exemplo de implementação de uma Tela de Login com uma Splash Screen em uma aplicação móvel ou web.
+O objetivo deste projeto é demonstrar como integrar uma animação ou tela de introdução (Splash) com um formulário de login funcional.
+
+
+
+> [!NOTE]
+>Lembre-se de trocar o login e a senha na pasta Model e arquivo Verifica_DAO.java
+> Caso não queira mudar o Login é filipe e a Senha é 123
+
