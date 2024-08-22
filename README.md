@@ -6,5 +6,6 @@ O objetivo deste projeto é demonstrar como integrar uma animação ou tela de i
 
 > [!NOTE]
 >Lembre-se de trocar o login e a senha na pasta Model e arquivo Verifica_DAO.java
-> Caso não queira mudar o Login é filipe e a Senha é 123
 
+> [!NOTE]
+> Caso não queira Mudar o Login é filipe e a Senha é 123
