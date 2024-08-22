@@ -8,7 +8,7 @@ O objetivo deste projeto é demonstrar como integrar uma animação ou tela de i
 > [!NOTE]
 >Lembre-se de trocar o login e a senha na pasta Model e arquivo Verifica_DAO.java
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 💻 Proximos Passos
 
