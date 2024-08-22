@@ -1,5 +1,5 @@
 #  TELA DE LOGIN COM SPLASH
-Este repositório contém um exemplo de implementação de uma Tela de Login com uma Splash Screen em uma aplicação móvel ou web.
+Este repositório contém um exemplo de implementação de uma Tela de Login com uma Splash Screen em uma aplicação grafica.
 O objetivo deste projeto é demonstrar como integrar uma animação ou tela de introdução (Splash) com um formulário de login funcional.
 
 
